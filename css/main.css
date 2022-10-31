@@ -28,7 +28,7 @@
 
 .input {
     border: 1px solid #dddddd;
-    border-radius: 5px;
+    border-radius: 50px;
     outline: none;
 }
 
@@ -56,4 +56,8 @@
 .controls,
 .summary {
     text-align: right;
+}
+
+.input-type{
+    padding-right: 100px;
 }
