@@ -7,7 +7,7 @@ export default class BudgetTracker {
             this.onNewEntryBtnClick();
         });
 
-        // Load initial data from Local Storage
+
         this.load();
     }
 
