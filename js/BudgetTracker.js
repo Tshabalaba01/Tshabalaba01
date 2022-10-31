@@ -18,7 +18,7 @@ export default class BudgetTracker {
                     <tr>
                         <th>Datum</th>
                         <th>Beskrivning</th>
-                        <th>Typ</th>
+                        <th>Typ av transaktion</th>
                         <th>Belopp</th>
                         <th></th>
                     </tr>
